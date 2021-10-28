@@ -1,1 +1,1 @@
-# weekend-project
+# appleseeds-weekend-project
