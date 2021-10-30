@@ -93,6 +93,8 @@ p {
   background: #333;
   color: #fff;
   overflow: auto;
+  width: 1273px;
+  position: fixed;
 }
 
 #navbar a {
